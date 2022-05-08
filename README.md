@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm catbox</h1>
+<h1 align="center">Hi 👋, I'm /</h1>
 <h3 align="center">A idiot developer</h3>
 
-- 🔭 I’m currently working on [Skywars V4](https://github.com/o0ent/rblxSkywars)
+- 🔭 I’m currently working on nothing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
