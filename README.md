@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm o0ent</h1>
 <h3 align="center">A idiot developer</h3>
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on LBP.py (private server for LittleBigPlanet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
